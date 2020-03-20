@@ -1,0 +1,20 @@
+I-Développement Full Stack
+	1-https://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
+	2-https://edward-designer.com/web/full-stack-web-developer/
+	3-https://www.andyshora.com/full-stack-developers.html
+	4-https://en.wikipedia.org/wiki/Multitier_architecture
+	5-http://www.tonymarston.net/php-mysql/3-tier-architecture.html
+
+II-Mise en place de l'environnement de travail
+  *Git et Github
+	1-https://git-scm.com/
+	2-https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+	3-https://git-scm.com/docs
+	4-http://ndpsoftware.com/git-cheatsheet.html
+	5-https://www.atlassian.com/git/tutorials
+  *Node et NPM
+	1-https://nodejs.org/en/
+	2-https://www.npmjs.com/
+	3-https://nodejs.org/api/
+	4-https://docs.npmjs.com/
+	5-https://github.com/johnpapa/lite-server
