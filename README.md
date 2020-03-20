@@ -9,7 +9,7 @@ les differente couches:
 * **la couche logique ou métier(NodeJS, Java, PHP, Python,C#, ...)** conserne la logique 
   métier ou le traitement des données entre le client et la couche d'accès 
   aux données.
-* **la couche d'accèss aux données(MSQL, MongoDB, Cassandara, ...)** conserve 
+* **la couche d'accèss aux données(MYSQL, MongoDB, Cassandara, ...)** conserve 
     la persistance des données c'est leurs sauvegardes et leurs protections
 
 ## I-Développement Full Stack
@@ -62,4 +62,19 @@ les differente couches:
 * alors que le **Framework** impose une structure bien determinée et le développeur 
    l'adapte son bésoin en ajoutant son code et les **Framework** ils utilisent l'approche dite declarative avec eventuellement l'**inversion de control**
    <code>Exemple: Angular, React, Ember, Backbone, Aurelia, ...</code>
+
+## V-Demarrer avec React JS
+    Pour installer **React JS** Dans ce cours, on utilise deux gestionnaires de packages à savoir **NPM(Node Package Manager)** et ***yarn** qui est aussi un autre Gestionnaire 
+*  pour installer React globalement dans son, on utilise:
+1.    <code>yarn global add create-react-app@latest</code> ou n'équivalent **NPM** 
+2.    <code>npm install -g create-react-app@latest</code>
+*  pour avoir une idée comment l'utiliser on tappe la commande suivante:
+1. <code>create-react-app --help</code>
+
+## VI-Création d'un projet React
+    Pour créer un projet un react JS
+*   <code>create-react-app nomDuProject</code> 
+    dans cas <code>create-react-app confusion</code>
+*   pour demarrer je vais dans le dossier <code>cd confusion</code> et puis
+    <code>yarn start</code> ou <code>npm start</code>
 
