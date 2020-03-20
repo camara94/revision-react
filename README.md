@@ -42,3 +42,24 @@ les differente couches:
 3. -<a href="https://nodejs.org/api/">https://nodejs.org/api/</a>
 4. -<a href="https://docs.npmjs.com/">https://docs.npmjs.com/</a>
 5. -<a href="https://github.com/johnpapa/lite-server">https://github.com/johnpapa/lite-server</a>
+
+## III-Pourquoi une libraire ou Framework JavaScript
+1. d'abord pour les manipulations complexe du **DOM** et la mise à jour 
+   des données dans une page HTML
+2. Ils nous permetent d'implementer les applications web qui respectent
+    l'architecture **MVC** OU **MVVM**
+3. Ils nous facilitent la liaisions des données (data binding)
+4. Leurs respects de certaines patternes 
+5. leurs comportements de réutilisabilité
+6. leurs modularités 
+
+## IV-Difference entre Framework et Bibliothèque en JavaScript
+* premièrement une **bibliothèque JS** est une collection de fonctionnalité 
+	ou fonctions qui facilite le développement d'une application mais n'impose pas
+	une structure propre à l'application donc elle se bas sur l'approche **imperative**
+	c'est à dire que le développeur impose sa propre structure(comment l'app doit être executer et structruré par exemple).
+	<code>Exemple: jQuery, Meteor, Polymer, knockout, Vue, Mercury...</code>
+* alors que le **Framework** impose une structure bien determinée et le développeur 
+   l'adapte son bésoin en ajoutant son code et les **Framework** ils utilisent l'approche dite declarative avec eventuellement l'**inversion de control**
+   <code>Exemple: Angular, React, Ember, Backbone, Aurelia, ...</code>
+
