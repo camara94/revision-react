@@ -172,7 +172,7 @@ pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.
 *   <a href="http://latentflip.com/imperative-vs-declarative">http://latentflip.com/imperative-vs-declarative</a>
 #### Quelques Blog et Articles 
 *   <a href="https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282#.tt1k09l1d">https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282#.tt1k09l1d</a>
-*   <a href="https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.pe809bf0u"></a>
+*   <a href="https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.pe809bf0u">https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.pe809bf0u</a>
 *   <a href="">https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.pe809bf0u</a>
 *   <a href="http://codenugget.co/2015/03/05/declarative-vs-imperative-programming-web.html">http://codenugget.co/2015/03/05/declarative-vs-imperative-programming-web.html</a>
 *   <a href="https://develoger.com/is-reactjs-library-or-a-framework-a14786f681a0">https://develoger.com/is-reactjs-library-or-a-framework-a14786f681a0</a>
@@ -181,3 +181,9 @@ pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.
 *   <a href="https://www.sohamkamani.com/blog/2016/11/16/react-is-a-framework/">https://www.sohamkamani.com/blog/2016/11/16/react-is-a-framework/</a>
 *   <a href="https://hashnode.com/post/why-isnt-react-called-framework-what-does-it-lack-to-be-a-framework-ciwm324og010xzx53wjfq354i">https://hashnode.com/post/why-isnt-react-called-framework-what-does-it-lack-to-be-a-framework-ciwm324og010xzx53wjfq354i</a>
 
+## React Components: Objectifs et résultats
+   Dans cette partie, vous découvrirez les components en **React** et comment nous construisons un component en **React** et concevons ses vues. À la fin de cette leçon, vous pourrez:
+*         Créer un component en React
+*         Construisez le code du component en React et la vue de votre 
+		  component à l'aide de **JSX** et **JavaScript**
+*         comprendre les **state** et **props**
