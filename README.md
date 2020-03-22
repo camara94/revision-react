@@ -89,7 +89,7 @@ les differente couches:
   Ex: <code>
 
 ### Syntaxe JSX:
-  	<pre>
+   <pre>
   		const element = (
   			<h1 className="greeting">Hello, World</h1>
   		)
@@ -121,3 +121,19 @@ les differente couches:
 
 **NB**: les JSX comme, vous pouvez la remarqué on constate qu'il ya peu 
 		de ligne de code.
+
+## Configuration de notre app pour l'adaption à notre bésoin
+Ici nous allons utiliser **bootstrap(Reactstrap)**
+* pour installer la dernière version de **Bootstrap** :
+1.  <code>yarn add bootstrap@latest</code> ou
+2.  <code>npm install -g bootstrap@latest --save</code>
+* ensuit on install **reactstrap** 
+1.  <code>yarn add reatstrap</code> ou
+2.  <code>npm install -g reatstrap --save</code>
+* ensuit on install  **react-popper**
+1.  <code>yarn add react-popper</code> ou
+2.  <code>npm install -g react-popper --save</code>
+**NB**: ces dependances nous permettent les differentes fonctionnalités
+        de **react** en **bootstrap**
+pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.js**
+ <code>import 'bootstrap/dist/css/bootstrap.min.css'</code> 
