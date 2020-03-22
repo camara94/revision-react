@@ -137,3 +137,20 @@ Ici nous allons utiliser **bootstrap(Reactstrap)**
         de **react** en **bootstrap**
 pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.js**
  <code>import 'bootstrap/dist/css/bootstrap.min.css'</code> 
+
+* Voici un exemple de code, qui permet d'ajouter une barre de navigation en **react**
+<code>
+	<pre>
+		import { Navbar, NavbarBrand } from 'reactstrap';
+
+		    const nav = (
+		      &lt;div className="App"&gt;
+		        &lt;Navbar dark color="primary"&gt;
+		          &lt;div className="container"&gt;
+		            &lt;NavbarBrand href="/"&gt;Ristorante Con Fusion&lt;/NavbarBrand&gt;
+		          &lt;/div&gt;
+		        &lt;/Navbar&gt;
+		      &lt;/div&gt;
+		    );
+	</pre>
+</code>
