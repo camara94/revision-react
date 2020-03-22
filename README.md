@@ -168,8 +168,7 @@ pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.
 #### Quelques Définitions
 *   <a href="https://en.wikipedia.org/wiki/Software_framework">https://en.wikipedia.org/wiki/Software_framework</a>
 *   <a href="https://en.wikipedia.org/wiki/Inversion_of_control">https://en.wikipedia.org/wiki/Inversion_of_control</a>
-*   <a href="https://www.netguru.com/blog/imperative-vs-declarative"></a>
-*   <a href="https://www.netguru.com/blog/imperative-vs-declarative"></a>
+*   <a href="https://www.netguru.com/blog/imperative-vs-declarative">https://www.netguru.com/blog/imperative-vs-declarative</a>
 *   <a href="http://latentflip.com/imperative-vs-declarative">http://latentflip.com/imperative-vs-declarative</a>
 #### Quelques Blog et Articles 
 *   <a href="https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282#.tt1k09l1d">https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282#.tt1k09l1d</a>
