@@ -1,16 +1,17 @@
 import React, { Component } from 'react';
 import './App.css';
 import { Navbar, NavbarBrand } from 'reactstrap';
-import Camara from './Camara';
+import Menu from './components/MenuComponent';
+
 
 const nav = (
-  <div className="App">
+  <div>
     <Navbar dark color="primary">
       <div className="container">
         <NavbarBrand href="/">Ristorant Con Fusion Camara</NavbarBrand>
       </div>
     </Navbar>
-    <Camara />
+    <Menu />
   </div>
 );
 

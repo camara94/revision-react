@@ -186,4 +186,4 @@ pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.
 *         Créer un component en React
 *         Construisez le code du component en React et la vue de votre 
 		  component à l'aide de **JSX** et **JavaScript**
-*         comprendre les **state** et **props**
+*         comprendre les **states** et **props**
