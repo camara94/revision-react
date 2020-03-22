@@ -140,7 +140,8 @@ pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.
 
 * Voici un exemple de code, qui permet d'ajouter une barre de navigation en **react**
 <code>
-	<pre>
+
+<pre>
 		import { Navbar, NavbarBrand } from 'reactstrap';
 
 		    const nav = (
