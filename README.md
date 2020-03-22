@@ -155,3 +155,30 @@ pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.
 		    );
 	</pre>
 </code>
+
+### Quelques liens utils
+#### Quelques Ressources en React 
+*   <a href="https://reactjs.org/">https://reactjs.org/</a>
+*   <a href="https://github.com/facebook/create-react-app">https://github.com/facebook/create-react-app</a>
+*   <a href="https://reactstrap.github.io/">https://reactstrap.github.io/</a>
+*   <a href="https://reactstrap.github.io/components/navbar/">https://reactstrap.github.io/components/navbar/</a>
+*   <a href="https://reactstrap.github.io/components/navbar/">https://reactstrap.github.io/components/navbar/</a>
+*   <a href="https://reactjs.org/docs/introducing-jsx.html">https://reactjs.org/docs/introducing-jsx.html</a>
+*   <a href="https://babeljs.io/repl">https://babeljs.io/repl</a>
+#### Quelques Définitions
+*   <a href="https://en.wikipedia.org/wiki/Software_framework">https://en.wikipedia.org/wiki/Software_framework</a>
+*   <a href="https://en.wikipedia.org/wiki/Inversion_of_control">https://en.wikipedia.org/wiki/Inversion_of_control</a>
+*   <a href="https://www.netguru.com/blog/imperative-vs-declarative"></a>
+*   <a href="https://www.netguru.com/blog/imperative-vs-declarative"></a>
+*   <a href="http://latentflip.com/imperative-vs-declarative">http://latentflip.com/imperative-vs-declarative</a>
+#### Quelques Blog et Articles 
+*   <a href="https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282#.tt1k09l1d">https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282#.tt1k09l1d</a>
+*   <a href="https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.pe809bf0u"></a>
+*   <a href="">https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.pe809bf0u</a>
+*   <a href="http://codenugget.co/2015/03/05/declarative-vs-imperative-programming-web.html">http://codenugget.co/2015/03/05/declarative-vs-imperative-programming-web.html</a>
+*   <a href="https://develoger.com/is-reactjs-library-or-a-framework-a14786f681a0">https://develoger.com/is-reactjs-library-or-a-framework-a14786f681a0</a>
+*   <a href="https://www.quora.com/Is-React-a-library-or-a-framework-and-why">https://www.quora.com/Is-React-a-library-or-a-framework-and-why</a>
+*   <a href="https://www.upwork.com/hire/react-js-developers/">https://www.upwork.com/hire/react-js-developers/</a>
+*   <a href="https://www.sohamkamani.com/blog/2016/11/16/react-is-a-framework/">https://www.sohamkamani.com/blog/2016/11/16/react-is-a-framework/</a>
+*   <a href="https://hashnode.com/post/why-isnt-react-called-framework-what-does-it-lack-to-be-a-framework-ciwm324og010xzx53wjfq354i">https://hashnode.com/post/why-isnt-react-called-framework-what-does-it-lack-to-be-a-framework-ciwm324og010xzx53wjfq354i</a>
+
