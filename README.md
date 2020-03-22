@@ -91,7 +91,7 @@ les differente couches:
 ### Syntaxe JSX:
    <pre>
   		const element = (
-  			<h1 className="greeting">Hello, World</h1>
+  			&lt;h1&gt; className="greeting">Hello, World&lt;/h1&gt;
   		)
 
    </pre>
@@ -132,7 +132,7 @@ Ici nous allons utiliser **bootstrap(Reactstrap)**
 2.  <code>npm install -g reatstrap --save</code>
 * ensuit on install  **react-popper**
 1.  <code>yarn add react-popper</code> ou
-2.  <code>npm install -g react-popper --save</code>
+2.  <code>npm install -g react-popper --save</code><br/>
 **NB**: ces dependances nous permettent les differentes fonctionnalités
         de **react** en **bootstrap**
 pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.js**
