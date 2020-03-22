@@ -64,17 +64,60 @@ les differente couches:
    <code>Exemple: Angular, React, Ember, Backbone, Aurelia, ...</code>
 
 ## V-Demarrer avec React JS
-    Pour installer **React JS** Dans ce cours, on utilise deux gestionnaires de packages à savoir **NPM(Node Package Manager)** et ***yarn** qui est aussi un autre Gestionnaire 
+    Pour installer React JS Dans ce cours, on utilise deux gestionnaires de packages à savoir NPM(Node Package Manager) et yarn qui est aussi un autre Gestionnaire 
 *  pour installer React globalement dans son, on utilise:
-1.    <code>yarn global add create-react-app@latest</code> ou n'équivalent **NPM** 
+1.    <code>yarn global add create-react-app@latest</code> ou son équivalent **NPM** 
 2.    <code>npm install -g create-react-app@latest</code>
 *  pour avoir une idée comment l'utiliser on tappe la commande suivante:
 1. <code>create-react-app --help</code>
 
 ## VI-Création d'un projet React
-    Pour créer un projet un react JS
+    Pour créer un projet react JS
 *   <code>create-react-app nomDuProject</code> 
     dans cas <code>create-react-app confusion</code>
 *   pour demarrer je vais dans le dossier <code>cd confusion</code> et puis
     <code>yarn start</code> ou <code>npm start</code>
 
+## VII JSX (JavaScript Extension)
+
+* Syntaxe d'extension JavaScript 
+* une courte notation des functions JavaScript qui sera appelée et evaluée
+  en objet JavaScript.
+* une separation artificielle de la logique de génération à partir d'autre
+  logique UI (User Interface).
+
+  Ex: <code>
+
+### Syntaxe JSX:
+  	<pre>
+  		const element = (
+  			<h1 className="greeting">Hello, World</h1>
+  		)
+
+   </pre>
+
+### Syntaxe React:
+   <pre>
+  		const element = ReactDom.render(
+  			'h1',
+  			{className:'greeting'},
+  		    'Hello, World'
+  		)
+
+   </pre>
+
+### Syntaxe d'objet JavaScript:
+   <pre>
+  		const element = {
+  			type: 'h1',
+  			props: {
+  				className: 'greeting',
+  			    children: 'Hello, World'
+  			}
+  		}
+
+   </pre>
+</code>
+
+**NB**: les JSX comme, vous pouvez la remarqué on constate qu'il ya peu 
+		de ligne de code.
