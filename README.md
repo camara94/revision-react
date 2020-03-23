@@ -187,3 +187,88 @@ pour les utilisés, je dois importer **bootstrap** dans mon fichier **src/index.
 *         Construisez le code du component en React et la vue de votre 
 		  component à l'aide de **JSX** et **JavaScript**
 *         comprendre les **states** et **props**
+
+## Importance des components en React
+*  Un composant renvoie un ensemble d'éléments React qui
+devrait apparaître à l'écran
+*  Les composants vous permettent de diviser votre interface utilisateur en
+pièces indépendantes et réutilisables
+*  Les composants acceptent également les entrées
+*  Différents types de composants peuvent être définis dans React
+
+## Composants React: State & Props
+### State
+* Chaque component peut stocker ses propres informations 
+  locales dans son **state** 
+1.  Privé et entièrement contrôlé par le component
+2.  Peut être transmis comme **props** aux enfants
+* Seuls les components de classe peuvent avoir un **state** local
+
+### Props
+Les attributs **JSX** sont passés dans un component comme un seul objet
+* Disponible dans le component comme **props**
+* Peut passer dans plusieurs attributs
+* Impossible de modifier les **props** dans le component
+
+## Gestion des événements
+* La gestion des événements est similaire à la façon dont vous gérez
+événements sur les éléments DOM:
+1. Utilisez camelCase pour spécifier les événements
+2. Fonction Pass en tant que gestionnaire d'événements
+* Exemple:
+        <code> &lt;Card onClick = {() => this.onDishSelect (plat)}&gt;</code>
+
+## Partage d'information ou donnée entre components
+* Parfois, plusieurs components peuvent partager les
+mêmes données
+* Les modifications des données dans un composant doivent être
+réfléchi vers un autre component
+* Mieux vaut déplacer l’état partagé vers un commun
+component ancêtre
+
+## Components React: méthodes de cycle de vie
+### React Component Lifecycle
+*    Le component React passe par les étapes suivantes
+     étapes du cycle de vie:
+      1. Mounting
+      2. Updating
+      3. Unmounting
+
+### Plusieurs méthodes de cycle de vie disponibles à chaque étape
+* Mounting Lifecycle Methods
+ Appelé lors de la création d'une instance d'un component
+ et inséré dans le DOM:
+1. <code>constructor()</code>
+2. <code>getDerivedStateFromProps()</code>
+3. <code>render()</code>
+4. <code>componentDidMount()</code>
+
+### Updating(Mise à jour des méthodes de cycle de vie)
+ Appelé lors du rendu d'un component
+ qui peut être causée par le chnangement du **props** ou **state**
+1. <code>getDerivedStateFromProps()</code>
+2. <code>shouldComponentUpdate()</code>
+3. <code>render()</code>
+4. <code>getSnapshotBeforeUpdate()</code>
+5. <code>componentDidUpdate()</code>
+* Deux méthodes désormais obsolètes:
+<code>componentWillReceiveProps ()</code> et <code>componentWillUpdate ()</code>
+
+### Unmounting Lifecycle Methods
+ Est appelé lorsque le component est supprimé
+du DOM:
+ <code>componentWillUnmount ()</code>
+* Traitement des erreurs: appelé en cas d'erreur
+pendant le rendu, dans une méthode de cycle de vie ou dans le
+constructeur de tout component enfant
+ <code>componentDidCatch ()</code>
+
+## React Resources
+*  <a href="https://reactjs.org/docs/components-and-props.html">https://reactjs.org/docs/components-and-props.html</a>
+*  <a href="https://reactjs.org/docs/state-and-lifecycle.html">https://reactjs.org/docs/state-and-lifecycle.html</a>
+*  <a href="https://reactstrap.github.io/components/media/">https://reactstrap.github.io/components/media/</a>
+*  <a href="https://reactjs.org/docs/react-component.html">https://reactjs.org/docs/react-component.html</a>
+*  <a href="https://reactstrap.github.io/components/card/">https://reactstrap.github.io/components/card/</a>
+*  <a href="https://getbootstrap.com/docs/4.0/content/typography/#unstyled">https://getbootstrap.com/docs/4.0/content/typography/#unstyled</a>
+*  <a href="https://github.com/facebook/react-devtools">https://github.com/facebook/react-devtools</a>
+*  <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi">https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi</a>
