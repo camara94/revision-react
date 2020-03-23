@@ -272,3 +272,9 @@ constructeur de tout component enfant
 *  <a href="https://getbootstrap.com/docs/4.0/content/typography/#unstyled">https://getbootstrap.com/docs/4.0/content/typography/#unstyled</a>
 *  <a href="https://github.com/facebook/react-devtools">https://github.com/facebook/react-devtools</a>
 *  <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi">https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi</a>
+
+## Assignment 1 Ideatation Resources
+
+*  <a href="https://en.wikipedia.org/wiki/Ideation_(creative_process)">https://en.wikipedia.org/wiki/Ideation_(creative_process)</a>
+*  <a href="https://www.volunteermatch.org/">https://www.volunteermatch.org/</a>
+*  <a href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a>
